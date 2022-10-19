@@ -1,0 +1,6 @@
+header {
+    background-image: url("../public/personas.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
